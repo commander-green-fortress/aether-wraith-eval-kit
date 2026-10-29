@@ -1,0 +1,4 @@
+# GREEN FORTRESS // QUARANTINED SILICON MANIFEST
+# Unencrypted Post-Route DCP Verification Hash (Internal Vault Reference):
+5f1c7172d44e17bf645de0db92b0c6949225f81d187e62925884fa02a89a25fd  aether_wraith_v11_xcvu9p.dcp
+2b54772602f67b2e253b0267ed8bdc1e687c355fd6567f9d71e0f16552f4c0f9  vault_netlist/aether_wraith_v11_xcvu9p.dcp.enc
